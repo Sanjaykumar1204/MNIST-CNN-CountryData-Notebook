@@ -1,6 +1,7 @@
 # MNIST-CNN-CountryData-Notebook
 A single-cell Jupyter Notebook that loads and analyzes Country-data.csv and trains a Convolutional Neural Network (CNN) on the MNIST handwritten digits dataset using TensorFlow. Includes preprocessing, model training, evaluation, and prediction visualization.
-1️⃣ Country Data Loading & Analysis
+
+1️)Country Data Loading & Analysis
 
 Loads Country-data.csv
 
@@ -10,7 +11,7 @@ Provides basic data inspection
 
 Automatically warns if the file is missing
 
-2️⃣ MNIST CNN Model Using TensorFlow
+2️) MNIST CNN Model Using TensorFlow
 
 Loads the MNIST handwritten digit dataset
 
@@ -24,7 +25,7 @@ Evaluates accuracy on test data
 
 Visualizes predictions for sample images
 
-🧠 Technologies Used
+# Technologies Used
 
 Python 3
 
